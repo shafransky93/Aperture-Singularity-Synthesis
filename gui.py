@@ -1,6 +1,6 @@
 import tkinter as tk
 from functools import partial
-from CreepyComputerVoice import SingingSynthesizer
+from ApertureSingularitySynthesis import SingingSynthesizer
 
 def synthesize_button_clicked(text_entry, synthesizer):
     text = text_entry.get()
