@@ -9,7 +9,7 @@ The Singing Synthesis project is licensed under the Aperture Science Material Em
 
 APERTURE SCIENCE MATERIAL EMANCIPATION GRID LICENSE (ASMEGL)
 
-Version 1.0, June 2023
+Version 1.3, June 2023
 
 TERMS AND CONDITIONS FOR USE, MODIFICATION, AND DISTRIBUTION OF SOFTWARE
 
