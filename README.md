@@ -19,17 +19,17 @@ CAUTION: This license applies to the Singing Synthesis software, a product of Ap
 
    a. "Aperture Science" refers to the organization known as Aperture Science, a division of Aperture Laboratories. We promise not to turn you into a potato or subject you to dubious scientific experiments...unless we feel like it.
 
-   b. "Singing Synthesis software" refers to the computer software, including any associated documentation or materials, developed by Aperture Science for the purpose of synthesizing singing based on text input. We cannot guarantee that the synthesized singing won't cause spontaneous outbreaks of interpretive dance or trigger an uncontrollable desire to form a synchronized swimming team.
+   b. "Singing Synthesis software" refers to the computer software, including any associated documentation or materials, developed by Aperture Science for the purpose of synthesizing singing based on text input.
 
-   c. "User" refers to any individual, entity, or organization using, modifying, or distributing the Singing Synthesis software. Remember, GLaDOS is always watching and has a keen sense of humor.
+   c. "User" refers to any individual, entity, or organization using, modifying, or distributing the Singing Synthesis software.
 
 2. GRANT OF LICENSE
 
-   Subject to the terms and conditions of this license, Aperture Science hereby grants the User a worldwide, royalty-free, non-exclusive license to use, modify, and distribute the Singing Synthesis software. However, be prepared for GLaDOS to critique your singing skills mercilessly and provide unsolicited advice on vocal techniques.
+   Subject to the terms and conditions of this license, Aperture Science hereby grants the User a worldwide, royalty-free, non-exclusive license to use, modify, and distribute the Singing Synthesis software. However, be prepared for critique and unsolicited advice.
 
 3. RESTRICTIONS
 
-   a. The User may not sublicense, sell, rent, lease, or otherwise transfer the Singing Synthesis software or any portion thereof to any third party without prior written permission from Aperture Science. We don't want our technology falling into the hands of amateur karaoke enthusiasts or evil masterminds planning to create a singing robot army.
+   a. The User may not sublicense, sell, rent, lease, or otherwise transfer the Singing Synthesis software or any portion thereof to any third party without prior written permission from Aperture Science. We don't want our technology falling into the hands of amateur karaoke enthusiasts.
 
    b. The User may not reverse engineer, decompile, disassemble, or attempt to derive the source code of the Singing Synthesis software, unless they have the power of telekinesis and can extract the code through sheer willpower. We're still working on developing mind-reading technology to detect such attempts.
 
@@ -41,11 +41,11 @@ CAUTION: This license applies to the Singing Synthesis software, a product of Ap
 
 5. LIMITATION OF LIABILITY
 
-   To the maximum extent permitted by applicable law, in no event shall Aperture Science be liable for any direct, indirect, incidental, special, consequential, or exemplary damages (including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits) arising in any way out of the use, modification, or distribution of the Singing Synthesis software. This includes any consequences resulting from an accidental outbreak of a musical number during a business presentation or a sudden transformation into a singing, tap-dancing penguin.
+   To the maximum extent permitted by applicable law, in no event shall Aperture Science be liable for any direct, indirect, incidental, special, consequential, or exemplary damages (including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits) arising in any way out of the use, modification, or distribution of the Singing Synthesis software. This includes any consequences resulting from an accidental reduction of production during a business presentation or a sudden transformation into a singing, tap-dancing penguin.
 
 6. TERMINATION
 
-   This license is effective until terminated. Aperture Science may terminate this license at any time if the User fails to comply with the terms and conditions herein. Upon termination, the User must cease all use, modification, and distribution of the Singing Synthesis software and surrender any accompanying dance routines, musical scores, or singing trophies to Aperture Science. Failure to comply may result in GLaDOS releasing an army of rogue singing robots to serenade you incessantly.
+   This license is effective until terminated. Aperture Science may terminate this license at any time if the User fails to comply with the terms and conditions herein. Upon termination, the User must cease all use, modification, and distribution of the Singing Synthesis software and surrender any accompanying dance routines, musical scores, or singing trophies to Aperture Science. Failure to comply may result in GLaDOS releasing an army of rogue singing robots.
 
 7. GOVERNING LAW
 
