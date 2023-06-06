@@ -121,10 +121,19 @@ class TerminalApp(App):
         self.output_label.text += '\n$ python ' + program_path + '\n' + output
 
     def on_start(self):
-        self.output_label.text += 'Welcome to the Aperture Singularity Synthesis!\n'
-        self.output_label.text += 'Type commands below and press the Run button or Enter to execute.\n'
-        self.output_label.text += 'Click the Speak button to use speech-to-text.'
-        self.output_label.text += '\nClick the Run Program button to execute a Python program.'
+        self.output_label.text += '\n  Welcome to the Aperture Singularity Synthesis!\n'
+        self.output_label.text += '\nType commands below and press the Run button or Enter to initiate synthesis.\n'
+        self.output_label.text += '\nClick the Apurture Science Speak button to use speech-to-text.'
+        self.output_label.text += '\nInitiate the Aperture Science Singularity Termination button'
+        self.output_label.text += '\nshould you encounter any isuues.'
+        self.output_label.text += '\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'        
+        self.output_label.text += '\n!!!!!WARNING THIS PROGRAM WILL BE ABLE TO ACCESS!!!!!'
+        self.output_label.text += '\n!!!!! YOU COMPUTER TERMINAL READ WRITE AND EDIT   !!!!!'
+        self.output_label.text += '\n!!!!!CODE AS WELL AS ACCESS THE INTERNET USE AND !!!!!'
+        self.output_label.text += '\n!!!!! PROCEED WITH CAUTION THIS IS NOT A JOKE             !!!!!'
+        self.output_label.text += '\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'        
+
+        
         # Initialize the speech recognizer
         self.recognizer = sr.Recognizer()
 
