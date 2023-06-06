@@ -9,7 +9,7 @@ from langchain.llms import OpenAI
 import os
 import sys
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '
 
 class TextRedirector:
     def __init__(self, widget):
