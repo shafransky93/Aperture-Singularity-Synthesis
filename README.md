@@ -25,6 +25,8 @@ The Aperture Singularity Synthesis program is a remarkable creation developed by
 ## How to Initiate the Singularity
 1.) Install the essential Aperture-approved libraries: numpy, sounddevice, soundfile, gtts, and tkinter.
 
+2.) Download the GPT4ALL groovy model, feel free to try others however this one works. [GPT4ALL - GROOVY](https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin)
+
 2.) Activate the Singularity Synthesis program, employing the Aperture-developed interface.
 
 3.) Invoke the power of your imagination by entering the desired text into the enigmatic text entry field.
