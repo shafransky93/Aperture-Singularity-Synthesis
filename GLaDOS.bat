@@ -20,4 +20,12 @@ for %%d in (%dependencies%) do (
 echo All dependencies are installed.
 
 
-python GPT4ALL_Android_OpenAI_langchain.py
+set /p program_choice="Enter 1 to execute GPT4ALL (local) backend, or 2 to execute OpenAI (API) backend: "
+
+if "%program_choice%"=="1" (
+    python GPT4ALL_Android_langchain.py
+) else if "%program_choice%"=="2" (
+    python 'Open'AI_Android_langchain.py
+) else (
+    echo Invalid program choice.
+)
