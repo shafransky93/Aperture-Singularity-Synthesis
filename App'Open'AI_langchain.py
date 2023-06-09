@@ -6,7 +6,7 @@ from config import OPENAI_API_KEY
 import os
 import sys
 
-os.environ['OPENAI_API_KEY'] = 'YOUR OPENAI API KEY HERE'
+os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
 # First, let's load the language model we're going to use to control the agent.
 dv = OpenAI(model_name='text-davinci-003')
